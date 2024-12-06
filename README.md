@@ -2,6 +2,7 @@
 
 
 - 🔭 I’m currently studying at [University of Guilan](https://english.guilan.ac.ir/)
+- 💻Chief Technology Officer & IT Specialist at Haydrauk & Bigerz % ailverchi
 - 🌱 I’m currently studying computer engineering
 - 💬 Ask me about music 
 - 📫 How to reach me: iliya.shenavar@gmail.com 
