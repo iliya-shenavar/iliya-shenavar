@@ -18,7 +18,7 @@ I'm a passionate Computer Engineering student and tech enthusiast from Rasht, Ir
 - 🌐 Personal Website: [iliyashenavar.top](https://iliyashenavar.top/)
 
 ## Who Am I? 🚀
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+
 ```python
 from Universe.Earth import Human
 
@@ -63,10 +63,10 @@ working_on = [
 "E-commerce platforms",
 "Internal automation systems"
 ]
-
+```
 Skills 🛠️
 Programming Languages
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&#x26;logo=python&#x26;logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&#x26;logo=c%2B%2B&#x26;logoColor=white" alt="C++">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&#x26;logo=java&#x26;logoColor=white" alt="Java">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&#x26;logo=javascript&#x26;logoColor=black" alt="JavaScript">
