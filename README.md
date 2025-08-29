@@ -1,63 +1,116 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=iliya-shenavar" alt="iliya-shenavar" />
+Iliya Shenavar 👨‍💻
 
 
-## Hello, World! 👋 my name is Iliya
 
+Hello, World! 👋 I'm Iliya Shenavar
+I'm a passionate Computer Engineering student and tech enthusiast from Rasht, Iran. Born in 2004, I'm bridging academia with real-world innovation as a developer and leader. I excel at team leadership, problem-solving, and embracing new technologies like AI and software development.
 
-- 🔭 I’m currently studying at [University of Guilan](https://english.guilan.ac.ir/)
-- 💻WordPress Backend Developer at [Sunny](https://isunny.ir/)
-- 
-- 🌱 I’m currently studying computer engineering
-- 💬 Ask me about music 
-- 📫 How to reach me: iliya.shenavar@gmail.com 
+🔭 Currently studying Bachelor's in Computer Engineering at University of Guilan (2021 - Present)
+💼 WordPress Backend Developer at Sunny (May 2025 - Present)
+🏢 Previously CTO at TKPC (Nov 2024 - May 2025), leading AI-powered solutions and e-commerce platforms
+🌱 Learning: Computer Engineering, Software Engineering, AI, and more
+💬 Ask me about: Music, AI, programming, or tech innovations
+📫 Reach me: iliya.shenavar@gmail.com
+🌐 Personal Website: iliyashenavar.top
 
-
-## Who i am?
-```py
+Who Am I? 🚀
 from Universe.Earth import Human
 
-class iliya-shenavar(Human):
+class IliyaShenavar(Human):
     full_name = "Iliya Shenavar Masouleh"
-    age = 20
-    education = "BS student in Computer Engineering"
+    age = 21  # Born in 2004
+    location = "Rasht, Iran"
+    education = "Bachelor's in Computer Engineering, University of Guilan (2021 - Present)"
 
-    programming_lang = ["python", "C++", "java"]
+    programming_languages = ["Python", "C++", "Java", "JavaScript", "PHP", "C#", "VHDL"]
 
-    Favorites = [
-        "computer",
-        "programming",
+    skills = {
+        "Industry": ["Software Development", "Software Project Management", "Web Development", "Network Administration"],
+        "Tools": ["IntelliJ IDEA", "Android Studio", "VS Code", "Proteus", "ISE Design Suite", "Dev-C++", "DirectAdmin"],
+        "Interpersonal": ["Team Leadership", "Project Management", "Problem Solving", "Time Management", "Communication", "Adaptability"]
+    }
+
+    certifications = [
+        "Introductory C# Programming",
+        "Advanced C# Programming",
+        "Android Programming For Beginners"
+    ]
+
+    favorites = [
+        "Computer",
+        "Programming",
         "AI",
-        "music",
-        "YouTube", 
+        "Music",
+        "YouTube"
     ]
 
-    Learning = [
+    learning = [
         "Computer Engineering",
-        "software engineering",
+        "Software Engineering",
+        "AI-Powered Solutions",
+        "Infrastructure Management"
     ]
-    working_on = ["level up my skills"]
 
-```
+    working_on = [
+        "Leveling up my skills",
+        "AI-powered Telegram bots",
+        "E-commerce platforms",
+        "Internal automation systems"
+    ]
+
+Skills 🛠️
+Programming Languages
+
+Tools & Frameworks
+
+Work Experience 💼
+
+WordPress Backend Developer at Sunny (May 2025 - Present)  
+
+Developed backend for acnt4u.com  
+Created banking and inquiry services plugin for isunnymoney.com  
+SEO and content for vianaoptic.com  
+Improved backend/frontend for cabana.villas  
+Role assignment and project management plugin for sadrfutures.ir  
+Currency accounting and WooCommerce plugins for yavarpay.com  
+Automated email marketing for paystar.top  
+Design implementation for paystar.market  
+Technical support for block11.com  
+Backend for boominox.com
+
+
+CTO at TKPC (Nov 2024 - May 2025)  
+
+Led development of AI-powered Telegram bots  
+Designed e-commerce platforms  
+Managed IT infrastructure and security  
+Built product retrieval bot
+
+
+Freelancer (Since 2020)  
+
+Developed websites, mobile apps, and university projects
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iliya-shenavar&hide=Vim+Script,Vim+Snippet,C&theme=tokyonight&hide_border=true&border_radius=10&bg_color=15,0d1117,1a1b26&show_icons=true&layout=compact)](https://github.com/iliya-shenavar)
+Featured Projects 🏗️
+
+AI-Powered Telegram Bot: Identifies products from images and provides purchase links using deep learning.
+Shopping Website: Full-stack online store.
+VR/AR Training Solution: Immersive employee training using Meta Quest 2.
+Python Image Processing: Tools using OpenCV and deep learning.
+Internal Automation System: Manages inventory, chemicals, and production (in development).
+Gesture Recognition System: AI-driven mouse control via hand gestures and webcam.
+
+Certifications 📜
+
+Introductory C# Programming
+Advanced C# Programming
+Android Programming For Beginners
+
+GitHub Stats 📊
 
 
-[![iliya-shenavar's GitHub stats](https://github-readme-stats.vercel.app/api?username=iliya-shenavar&hide=prs&custom_title=My%20Github%20Stat's&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&bg_color=15,0d1117,1a1b26)](https://github.com/iliya-shenavar)
 
 
-<!--
-**iliya-shenavar/iliya-shenavar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for visiting! Let's connect and build something awesome. 🚀
