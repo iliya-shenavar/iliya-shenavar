@@ -1,6 +1,6 @@
 # Iliya Shenavar 👨‍💻
 
-<p align="right">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=iliya-shenavar" alt="Profile Views" />
 </p>
 
