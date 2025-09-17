@@ -155,7 +155,7 @@ working_on = [
 <table>
   <tr>
     <td width="50%">
-      <img src="https://streak-stats.demolab.com/?user=iliya-shenavar&theme=tokyonight&hide_border=true&border_radius=10&background=15,0d1117,1a1b26" alt="GitHub Streak" width="100%" />
+      <img src="[https://streak-stats.demolab.com/?user=iliya-shenavar&theme=tokyonight&hide_border=true&border_radius=10&background=15,0d1117,1a1b26](https://streak-stats.demolab.com/?user=iliya-shenavar&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly)" alt="GitHub Streak" width="100%" />
     </td>
     <td width="50%">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iliya-shenavar&theme=tokyonight" alt="Profile Details" />
