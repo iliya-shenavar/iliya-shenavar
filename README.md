@@ -155,7 +155,7 @@ working_on = [
 <table>
   <tr>
     <td width="50%">
-      <img src="https://streak-stats.demolab.com?user=iliya-shenavar&theme=highcontrast&date_format=j%20M%5B%20Y%5D&mode=weekly" width="100%" />
+      <img src="https://streak-stats.demolab.com/?user=iliya-shenavar&theme=highcontrast&date_format=j%20M%5B%20Y%5D&mode=weekly" width="100%" />
     </td>
     <td width="50%">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iliya-shenavar&theme=tokyonight" alt="Profile Details" />
