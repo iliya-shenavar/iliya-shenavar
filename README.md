@@ -174,15 +174,21 @@ class IliyaShenavar(Human):
 
 ## GitHub Stats 📊
 
-> **Note:** The public instance of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) (Top Languages & Stats cards) is currently **paused** on Vercel, so those images may not load. You can [self-host your own instance](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance) for full stats.
-
 <table>
   <tr>
     <td width="50%">
-      <img src="https://streak-stats.demolab.com/?user=iliya-shenavar&theme=highcontrast&date_format=j%20M%5B%20Y%5D&mode=weekly" width="100%" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com/?user=iliya-shenavar&theme=highcontrast&date_format=j%20M%5B%20Y%5D&mode=weekly" width="100%" />
     </td>
     <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iliya-shenavar&theme=tokyonight" alt="Profile Details" width="100%" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iliya-shenavar&theme=tokyonight" alt="Profile Details" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iliya-shenavar&hide=Vim%20Script,Vim%20Snippet,C&theme=tokyonight&hide_border=true&border_radius=10&bg_color=15,0d1117,1a1b26&show_icons=true&layout=compact" alt="Top Languages" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=iliya-shenavar&hide=prs&custom_title=My%20Github%20Stats&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&bg_color=15,0d1117,1a1b26" alt="Iliya's GitHub stats" width="100%" />
     </td>
   </tr>
 </table>
