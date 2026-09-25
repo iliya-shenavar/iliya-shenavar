@@ -140,25 +140,10 @@ keep academia and real-world work feeding into each other.
 
 <div align="center">
 
-<a href="https://github.com/iliya-shenavar">
-  <img height="180"
-       src="./img/github-stats.svg"
-       alt="GitHub Stats">
-</a>
-
-<a href="https://github.com/iliya-shenavar">
-  <img height="180"
-       src="./img/top-langs.svg"
-       alt="Top Languages">
-</a>
-
-<br><br>
-
-<a href="https://github.com/iliya-shenavar">
-  <img width="95%"
-       src="./img/contributions.svg"
-       alt="GitHub Contributions">
-</a>
+![GitHub followers](https://img.shields.io/github/followers/iliya-shenavar?label=Followers&style=for-the-badge&color=F97316&labelColor=161B22)
+![GitHub stars](https://img.shields.io/github/stars/iliya-shenavar?label=Stars&style=for-the-badge&color=F97316&labelColor=161B22)
+![Top language](https://img.shields.io/github/languages/top/iliya-shenavar/iliya-shenavar?label=Top%20Language&style=for-the-badge&color=F97316&labelColor=161B22)
+![Profile repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/iliya-shenavar&label=Public%20Repos&query=$.public_repos&style=for-the-badge&color=F97316&labelColor=161B22)
 
 </div>
 
