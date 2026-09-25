@@ -140,16 +140,25 @@ keep academia and real-world work feeding into each other.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=iliya-shenavar&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=F97316&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub stats">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iliya-shenavar&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=F97316&text_color=C9D1D9" alt="Top languages">
+<a href="https://github.com/iliya-shenavar">
+  <img height="180"
+       src="./img/github-stats.svg"
+       alt="GitHub Stats">
+</a>
+
+<a href="https://github.com/iliya-shenavar">
+  <img height="180"
+       src="./img/top-langs.svg"
+       alt="Top Languages">
+</a>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iliya-shenavar&bg_color=0D1117&color=F97316&line=F97316&point=FFFFFF&area=true&hide_border=true" alt="Contribution graph" width="95%">
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=iliya-shenavar&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies">
+<a href="https://github.com/iliya-shenavar">
+  <img width="95%"
+       src="./img/contributions.svg"
+       alt="GitHub Contributions">
+</a>
 
 </div>
 
@@ -157,7 +166,11 @@ keep academia and real-world work feeding into each other.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/iliya-shenavar/iliya-shenavar/output/snake.svg" alt="Snake animation eating my contributions">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iliya-shenavar/iliya-shenavar/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iliya-shenavar/iliya-shenavar/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/iliya-shenavar/iliya-shenavar/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
